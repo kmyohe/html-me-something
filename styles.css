@@ -8,14 +8,23 @@ section {
 header {
     text-align: center;
 }
+main{
+    padding: 25px 50px 100px 25px
+}
+img{
+    align-content: center; 
+}
 .title-color {
     color: darkolivegreen;
 }
 .section-color {
-    background-color: lightslategray;
+    background-color: lightgray;
 }
 p {
     background-color: lightslategray;
+}
+small  {
+    font-style: italic;
 }
 
 #article-title {
