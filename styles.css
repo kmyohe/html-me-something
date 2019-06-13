@@ -1,0 +1,24 @@
+section {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 75px;
+    margin-bottom: 150px;
+}
+
+header {
+    text-align: center;
+}
+.title-color {
+    color: darkolivegreen;
+}
+.section-color {
+    background-color: lightslategray;
+}
+p {
+    background-color: lightslategray;
+}
+
+#article-title {
+    font-family: cursive;
+    text-transform: capitalize;
+  }
