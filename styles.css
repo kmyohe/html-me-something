@@ -11,8 +11,14 @@ header {
 main{
     padding: 25px 50px 100px 25px
 }
-img{
-    align-content: center; 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.tab{
+    text-indent: 40px;
 }
 .title-color {
     color: darkolivegreen;
@@ -20,9 +26,7 @@ img{
 .section-color {
     background-color: lightgray;
 }
-p {
-    background-color: lightslategray;
-}
+
 small  {
     font-style: italic;
 }
